@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.btn-danger{
+    margin: 0% 0.5% 0% 1%;
+}
+.content{
+    border: 1px solid rgb(158, 160, 156);
+    margin: 4% 4% 4% 2%;
+    padding: 2%;
+    box-shadow: -1px -1px rgb(158, 160, 156) ;
+    height: 20rem;
+}
+.thumb{
+    width: 10rem;
+    float: right;
+    padding: 0%;
+}
+h6{
+    color: blue;
+}
+.design{
+    color: green;
+}
+.front{
+    color: rgb(228, 72, 72);
+}
+.python{
+    color: yellowgreen;
+}
+footer{
+    margin: 2%;
+}
+.top{
+    float: right;
+}
+span{
+    color: gray;
+}
+.contents{
+    margin: 3%;
+}
+.about-content{
+    display: inline-block;
+    height: 20rem;
+    max-width: 30rem;
+    margin: 6%;
+    font-size: large;
+    font-weight: 300;
+}
+.about2{
+    display: inline-block;
+}
